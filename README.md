@@ -1,5 +1,5 @@
 # ParseGPX
-Parse GPX files to extract the location information for easier use in other applications.
+Parse GPX files to extract the location information for easier use in other applications. Last Updated: 09/19/2019.
 
 ## Introduction
 Global Positioning System devices are used in a wide variety of applications, from ride hailing services to fitness tracking to exergaming to migratory animal tracking to illegal fishing monitoring. Many GPS devices record a GPS track, which is a record of the position of the device over time. GPS tracks are often stores in GPX files, which are a specific kind of XML file. This project aims to process GPX files to extract the location information for easier use in other applications.
