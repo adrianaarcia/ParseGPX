@@ -68,3 +68,6 @@ then the output must be
 41.3078680,-72.9342120,20.0,2018-08-24T13:49:46Z
 41.3078810,-72.9342590,20.0,2018-08-24T13:49:49Z
 ```
+## Known Bugs
+
+See `results_1.txt` for known errors and failed test cases.
